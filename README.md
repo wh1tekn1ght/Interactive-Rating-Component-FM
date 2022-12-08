@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/wh1tekn1ght/Interactive-Rating-Component-FM)
-- Live Site URL: [Live site URL here](https://wh1tekn1ght.github.io/Interactive-Rating-Component-FM/)
+- Solution URL: [Solution URL here](https://github.com/nimrodcode/Interactive-Rating-Component-FM)
+- Live Site URL: [Live site URL here](https://nimrodcode.github.io/Interactive-Rating-Component-FM/)
 
 ## My process
 
